@@ -1,0 +1,7 @@
+C:\Users\martin.schneider\Desktop\C#\Testat Informatik\ListenVerwaltung\ListenVerwaltung\obj\x86\Debug\ListenVerwaltung.Form1.resources
+C:\Users\martin.schneider\Desktop\C#\Testat Informatik\ListenVerwaltung\ListenVerwaltung\obj\x86\Debug\ListenVerwaltung.Properties.Resources.resources
+C:\Users\martin.schneider\Desktop\C#\Testat Informatik\ListenVerwaltung\ListenVerwaltung\obj\x86\Debug\ListenVerwaltung.csproj.GenerateResource.Cache
+C:\Users\martin.schneider\Desktop\C#\Testat Informatik\ListenVerwaltung\ListenVerwaltung\bin\Debug\ListenVerwaltung.exe
+C:\Users\martin.schneider\Desktop\C#\Testat Informatik\ListenVerwaltung\ListenVerwaltung\bin\Debug\ListenVerwaltung.pdb
+C:\Users\martin.schneider\Desktop\C#\Testat Informatik\ListenVerwaltung\ListenVerwaltung\obj\x86\Debug\ListenVerwaltung.exe
+C:\Users\martin.schneider\Desktop\C#\Testat Informatik\ListenVerwaltung\ListenVerwaltung\obj\x86\Debug\ListenVerwaltung.pdb
